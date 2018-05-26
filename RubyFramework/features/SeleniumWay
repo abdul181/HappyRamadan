@@ -1,0 +1,10 @@
+Feature: As user of seleniumway i would like to explore options
+
+  Scenario: Fill up application
+
+    Given user navigate to selenium way site
+    When  user click on input from link
+    And   user click on input form link
+   # And   user complete single input page
+
+

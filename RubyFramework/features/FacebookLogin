@@ -1,0 +1,7 @@
+Feature: Login functionality
+
+  Scenario: login to FB with valid credentials
+
+    Given user navigate to facebook page
+    When  user enters username and pw
+    Then  user should be able to login to fb
